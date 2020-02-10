@@ -1,0 +1,10 @@
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\bin\Debug\AgendaTelefonica.WindowsForms.UI.exe.config
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\bin\Debug\AgendaTelefonica.WindowsForms.UI.exe
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\bin\Debug\AgendaTelefonica.WindowsForms.UI.pdb
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\obj\Debug\AgendaTelefonica.WindowsForms.UI.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\obj\Debug\AgendaTelefonica.WindowsForms.UI.Form1.resources
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\obj\Debug\AgendaTelefonica.WindowsForms.UI.Properties.Resources.resources
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\obj\Debug\AgendaTelefonica.WindowsForms.UI.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\obj\Debug\AgendaTelefonica.WindowsForms.UI.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\obj\Debug\AgendaTelefonica.WindowsForms.UI.exe
+C:\Users\Thiago\source\repos\AgendaTelefonica.WindowsForms.UI\AgendaTelefonica.WindowsForms.UI\obj\Debug\AgendaTelefonica.WindowsForms.UI.pdb
